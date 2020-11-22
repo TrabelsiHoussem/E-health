@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/tous"
+
+            android:title="Tous" />
+        <item
+            android:id="@+id/hopetatique"
+
+            android:title="Hopitaux Etatique" />
+        <item
+            android:id="@+id/hopprive"
+
+            android:title="Hopitaux Privés" />
+        <item
+            android:id="@+id/pharmanuit"
+
+            android:title="Pharmacies de Nuit" />
+        <item
+            android:id="@+id/pharmajour"
+
+            android:title="Pharmacies de jour" />
+    </group>
+
+    <item android:title="Application">
+        <menu>
+            <item
+                android:id="@+id/help"
+                android:title="Help" />
+            <item
+                android:id="@+id/quitter"
+                android:title="Quitter" />
+        </menu>
+    </item>
+
+</menu>

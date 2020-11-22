@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "780931565513",
+    "firebase_url": "https://taxitracking-fbae3.firebaseio.com",
+    "project_id": "taxitracking-fbae3",
+    "storage_bucket": "taxitracking-fbae3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780931565513:android:87e06a822d2e7f57",
+        "android_client_info": {
+          "package_name": "com.example.houst.health"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780931565513-4evv2larseg3je8nslmd3narc7us4lq0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.houst.health",
+            "certificate_hash": "5cfe52815752956f0561530120ed4224e2d69f16"
+          }
+        },
+        {
+          "client_id": "780931565513-icpab4egkovbs1imr8suqumbg6pvkg5c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm60pGbdQ-7wNSbc000F5XsLDXQK1UvFs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780931565513-icpab4egkovbs1imr8suqumbg6pvkg5c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780931565513:android:ada619ca0f229b2f",
+        "android_client_info": {
+          "package_name": "com.example.houst.riderapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780931565513-03skgcnipr6ilrjlpumi5ub2ulop5ngu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.houst.riderapp",
+            "certificate_hash": "5cfe52815752956f0561530120ed4224e2d69f16"
+          }
+        },
+        {
+          "client_id": "780931565513-icpab4egkovbs1imr8suqumbg6pvkg5c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm60pGbdQ-7wNSbc000F5XsLDXQK1UvFs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780931565513-icpab4egkovbs1imr8suqumbg6pvkg5c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780931565513:android:963fd94dac3681a8",
+        "android_client_info": {
+          "package_name": "com.example.houst.taxicall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780931565513-ghj5516c0q5shgbm8b9rl3nao227nmoh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.houst.taxicall",
+            "certificate_hash": "5cfe52815752956f0561530120ed4224e2d69f16"
+          }
+        },
+        {
+          "client_id": "780931565513-icpab4egkovbs1imr8suqumbg6pvkg5c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm60pGbdQ-7wNSbc000F5XsLDXQK1UvFs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780931565513-icpab4egkovbs1imr8suqumbg6pvkg5c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
